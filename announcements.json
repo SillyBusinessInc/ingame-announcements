@@ -3,9 +3,9 @@
     "appid": 0,
     "newsitems": [
       {
-        "title": "Sideloaded 1",
-        "url": "https://google.com",
-        "author": "broken on purpose just for testing",
+        "title": "Launch Event Twitch.tv",
+        "url": "https://www.twitch.tv/cmgt_hr",
+        "author": "sillybusinessstudios || CHANGE OUT BANNER || BROKEN ON PURPOSE to test fallback",
         "contents": "[img]{EXTERNAL_IMG_HOST}30662877/407353098-027c1fa8-f069-4075-9d89-0f814dca3cc2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgwNzQ2MDUsIm5iZiI6MTczODA3NDMwNSwicGF0aCI6Ii8zMDY2Mjg3Ny80MDczNTMwOTgtMDI3YzFmYTgtZjA2OS00MDc1LTlkODktMGY4MTRkY2EzY2MyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI4VDE0MjUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjM2M0ODliZTBmN2IwNDE4OTljMmM1ZjQyMjFmMWZlZTAwNGIyOTRjNjM2YTA4NDI0ZmQ4OTQzMDQ3NjhhYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NmtL9NbGaFpi_OPuqsyS--7yrgEe3OcX2NKG_ntKcWw[/img]",
       },
       {
