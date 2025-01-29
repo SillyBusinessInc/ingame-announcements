@@ -3,6 +3,12 @@
     "appid": 0,
     "newsitems": [
       {
+        "title": "Launch Event Twitch.tv",
+        "url": "https://www.twitch.tv/cmgt_hr",
+        "author": "sillybusinessstudios",
+        "contents": "[img]{EXTERNAL_IMG_HOST}twitchBanner.png[/img]",
+      },
+      {
         "title": "Discord",
         "url": "https://discord.gg/SPtuAzrNmG",
         "author": "sillybusinessstudios",
