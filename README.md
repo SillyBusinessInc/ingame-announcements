@@ -10,7 +10,7 @@ Preferably add to the top, as there is no sorting. So read from top to bottom.
         "title": "Sideloaded 1",
         "url": "https://google.com",
         "author": "sillybusinessstudios",
-        "contents": "[img]{EXTERNAL_IMG_HOST}bd8ede45906a0aa3c86ec18e784ca56db4c2dca8.png[/img]",
+        "contents": "[img]{EXTERNAL_IMG_HOST}discordBanner.png[/img]",
       }
 ```
 - Edit title, not used ingame but makes it easier to keep track of the announcements.
